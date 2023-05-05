@@ -1,4 +1,4 @@
-# Desafio 17 - Menu Dropdonw Responsivo
+# Menu Dropdonw Responsivo
 
 ##
 
